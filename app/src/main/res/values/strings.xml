@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitFinder</string>
+    <string name="followers_label">followers: </string>
+</resources>
